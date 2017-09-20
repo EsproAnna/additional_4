@@ -19,7 +19,5 @@
     "mocha": "^3.2.0"
   },
   "homepage": "https://github.com/yankouskia/additional_4#readme",
-  "dependencies": {
-    "big-integer": "^1.6.25"
-  }
+  "dependencies": {}
 }
